@@ -130,3 +130,4 @@ dmypy.json
 
 # Mine
 flats_wroclaw_final.csv
+data_set_after_cleaning_with_NaN.csv
